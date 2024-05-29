@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/wallet"
+        android:icon="@drawable/baseline_account_balance_wallet_24"
+        android:title="Кошелек"
+        android:background="@drawable/shapes"
+        />
+
+    <item android:id="@+id/market"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:title="Рынок"
+        android:background="@drawable/shapes"
+        />
+
+    <item android:id="@+id/browser"
+        android:icon="@drawable/baseline_open_in_browser_24"
+        android:title="Браузер"
+        android:background="@drawable/shapes"
+        />
+    <item android:id="@+id/change"
+        android:icon="@drawable/baseline_currency_exchange_24"
+        android:title="Обмен"
+        android:background="@drawable/shapes"
+        />
+    <item android:id="@+id/settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Настройки"
+        android:background="@drawable/shapes"
+        />
+</menu>

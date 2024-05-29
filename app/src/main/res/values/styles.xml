@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="rounded_text_bg">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/gray_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="rounded_text_bg_bold">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="rounded_text_active">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/accent_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
